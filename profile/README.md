@@ -8,8 +8,7 @@
 <div align="center">
     <!-- CoC -->
     <a href="https://www.mase.gov.it/">
-      <img src="https://www.mase.gov.it/sites/default/files/stella.png" /><br><br>
-     <h2> Ministero dell'Ambiente e della Sicurezza Energetica </h2>
+      <img src="https://pbs.twimg.com/profile_images/1591386390385856512/wJlQ3oHM_400x400.jpg" /><br><br>
     </a>
 </div>
 
